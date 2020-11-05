@@ -1,5 +1,9 @@
 # Xcode
 #
+
+#DS_Store
+**/.DS_Store
+
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
 ## User settings
